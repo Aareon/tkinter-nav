@@ -3,7 +3,7 @@
   <h3>Navigation wrapper for Tkinter.</h3>
 </div>
 
-## No longer supported. Feel free to fork the project.
+## This fork is currently supported!
 
 ## Install
 
