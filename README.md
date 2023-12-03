@@ -6,9 +6,13 @@
 ## This fork is currently supported!
 
 ## Install
-
+### Using pip
 ```
-pip install tkinter-nav
+pip install git+https://github.com/Aareon/tkinter-nav
+```
+### Using pipenv
+```
+pipenv install git+https://github.com/Aareon/tkinter-nav
 ```
 
 ## Usage
