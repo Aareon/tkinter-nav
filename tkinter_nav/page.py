@@ -7,7 +7,7 @@ class Page(Frame):
     def __init__(self, parent, name=None):
         Frame.__init__(self, parent)
 
-        self.grid(row=0, column=0, sticky='nsew')
+        self.grid(row=0, column=0, sticky="nsew")
 
         self.__name = name
         self.__parent = parent
